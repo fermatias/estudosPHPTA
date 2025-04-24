@@ -1,0 +1,22 @@
+PW2 - Aula Bootstrap + HTML 
+
+12 containers
+Linha (row)
+
+Exemplo: Como colocar uma imagem pra ocupar a tela inteira
+
+No smartphone: col-12
+No tablet: col-sm-12
+Nos monitores: col-md-12
+Em telas grandes: col-lg-12
+
+Agora, para ocupar metade da tela:
+
+col-md-6
+col-lg-6
+
+--------------------------------------------------------------------
+
+VSCODE:
+
+div + . + nome da class = automático 

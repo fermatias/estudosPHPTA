@@ -1,0 +1,7 @@
+informações juntas > decompõe
+
+inserção > repetir, digitar mtas vezes
+
+exlusão > caso excluir, pode excluir projetos que estao no mesmo cadastro
+
+atualizacao > mesmo projeto, mesmo lugar 
